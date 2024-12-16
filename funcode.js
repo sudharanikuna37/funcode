@@ -15,5 +15,5 @@ function showSecondButton() {
 
 function showMessage() {
     document.getElementById('message-container').style.display = 'block';
-    document.getElementById('message').innerText = "EKKADA KALDDAM SUNDAY.....";
+    document.getElementById('message').innerText = "EKKADA KALUDDAM SUNDAY.....";
 }
